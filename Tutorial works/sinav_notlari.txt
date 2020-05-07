@@ -1,0 +1,4 @@
+Saık Turan:1,1,1
+Berke Şentürk:17,44,99
+Aslı Aydın:78,97,56
+Ahmet Yok:44,33,22
